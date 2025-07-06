@@ -18,3 +18,5 @@ This project helps predict if a patient might be readmitted to the hospital soon
 
 Output:
 
+[Output task 3.docx](https://github.com/user-attachments/files/21089374/Output.task.3.docx)
+
